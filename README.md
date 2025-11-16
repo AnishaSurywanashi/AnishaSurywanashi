@@ -1,51 +1,62 @@
-<h2 align="center">🌸 Hey, I'm <b>Anisha Suryawanshi</b> 🌸</h2>
+<h1 align="center">🌙✨ Hey, I'm <b>Anisha Suryawanshi</b> ✨🌙</h1>
 
 <p align="center">
-  🎓 3rd Year IT Engineering Student • PICT Pune  
-  💻 Full-Stack Developer Enthusiast  
+  🎓 3rd Year IT Engineering Student • PICT Pune<br>
+  💻 Full-Stack Developer Enthusiast • Curious Explorer  
 </p>
 
 ---
 
-## 🌼 About Me
+## 🌕 About Me
 
-Hi! I'm Anisha — a passionate and curious developer who loves building smooth, modern applications.  
-I enjoy working on both frontend and backend, exploring new tech, and designing meaningful digital experiences.
+Hi! I'm Anisha — a developer who loves building smooth, modern, and meaningful digital experiences.  
+I enjoy working across the stack, experimenting with new tech, and creating applications that feel intuitive.
 
-- 🌱 Currently exploring **advanced React & backend APIs**
-- 🎯 Interested in **full-stack development & cloud**
-- 🧠 Love solving problems and learning continuously  
-- 🤝 Enjoy collaborating in team projects
-
----
-
-## 🛠️ Tech Stack
-
-### **Languages**
-- C++  
-- JavaScript  
-- HTML5  
-- CSS3  
-
-### **Frontend**
-- React.js  
-- Modern CSS / Responsive UI  
-
-### **Backend & Tools**
-- Node.js  
-- Git & GitHub  
-- VS Code  
+- 🌱 Currently exploring **React ecosystems & backend APIs**
+- ☁️ Interested in **full-stack development & cloud services**
+- 🧠 Passionate about **problem-solving & clean code**
+- 🌌 Believe in continuous learning & creative thinking  
+- 🤝 Love building projects in collaborative environments
 
 ---
 
-## 🌐 Connect With Me
+## 🌔 Tech Stack
+
+### 🪐 **Languages**
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+</p>
+
+### 🌖 **Frontend**
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Responsive_Design-000000?logo=css3&logoColor=white&style=for-the-badge" />
+</p>
+
+### 🌘 **Backend & Tools**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?logo=visual-studio-code&logoColor=white&style=for-the-badge" />
+</p>
+
+---
+
+## 🌑 Connect With Me
 
 <p align="center">
   <a href="https://github.com/AnishaSurywanashi">
-    <img src="https://img.shields.io/badge/GitHub-AnishaSurywanashi-000?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-AnishaSurywanashi-2b3137?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to explore my projects.*  
+<p align="center">
+  ⭐ <i>Thanks for visiting my moon-lit corner of GitHub.  
+  Explore my projects and let's build something amazing! 🌙🚀</i> ⭐
+</p>
