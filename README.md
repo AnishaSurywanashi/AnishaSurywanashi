@@ -59,11 +59,19 @@ I enjoy working across the stack, experimenting with new tech, and creating appl
 </p>
 
 ---
-## 📈 GitHub Activity
+## 📊 GitHub Stats
 
-[![Anisha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AnishaSurywanashi&theme=tokyo-night&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=AnishaSurywanashi&show_icons=true&count_private=true&theme=tokyonight&hide_border=false&border_radius=12"
+    height="170"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnishaSurywanashi&layout=compact&theme=tokyonight&hide_border=false&border_radius=12"
+    height="170"
+  />
+</p>
 
----
 
 <p align="center">
   ⭐ <i>Thanks for visiting my moon-lit corner of GitHub.  
