@@ -63,14 +63,15 @@ I enjoy working across the stack, experimenting with new tech, and creating appl
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=AnishaSurywanashi&show_icons=true&count_private=true&theme=tokyonight&hide_border=false&border_radius=12"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AnishaSurywanashi&show_icons=true&theme=tokyonight&border_radius=12"
     height="170"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnishaSurywanashi&layout=compact&theme=tokyonight&hide_border=false&border_radius=12"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AnishaSurywanashi&layout=compact&theme=tokyonight&border_radius=12"
     height="170"
   />
 </p>
+
 
 
 <p align="center">
