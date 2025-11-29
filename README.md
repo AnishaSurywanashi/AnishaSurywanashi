@@ -59,6 +59,12 @@ I enjoy working across the stack, experimenting with new tech, and creating appl
 </p>
 
 ---
+## 📈 GitHub Activity
+<p align="center">
+  <!-- Contribution Calendar / Activity Graph -->
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AnishaSurywanashi&theme=react-dark&hide_border=true" alt="activity graph" />
+</p>
+---
 
 <p align="center">
   ⭐ <i>Thanks for visiting my moon-lit corner of GitHub.  
